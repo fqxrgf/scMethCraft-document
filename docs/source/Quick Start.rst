@@ -70,7 +70,7 @@ Key functions involved:
 
 A tutorial is provided to demonstrate these functions to users:
 
-**Tutorial:** `Training Data Generation <./tutorial/tutorial_create_training_datasets.ipynb>`_
+**Tutorial:** `Training Data Generation <https://github.com/BioX-NKU/scMethCraft/tutorial/tutorial_create_training_datasets.ipynb>`_
 
 Sample data can be downloaded from: https://drive.google.com/drive/folders/1vaLj5UoJ5wi46ZJAzbwaEkRZU_UEa_k0?usp=drive_link
 
@@ -97,7 +97,7 @@ Key functions involved:
 | ``output_model``       | Output the trained model                              |
 +------------------------+-------------------------------------------------------+
 
-**Tutorial:** `Model Training <./tutorial/tutorial_model_training.ipynb>`_
+**Tutorial:** `Model Training <https://github.com/BioX-NKU/scMethCraft/tutorial/tutorial_model_training.ipynb>`_
 
 3. Downstream Analysis
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -106,7 +106,7 @@ scMethCraft can be applied to various downstream analyses, including dimensional
 
 The following tutorials are provided for users:
 
-- `Dimensionality Reduction <./tutorial/tutorial_cell_embedding.ipynb>`_
-- `Data Enhancement <./tutorial/tutorial_cell_embedding.ipynb>`_
-- `Batch Integration <./tutorial/tutorial_batch_integration.ipynb>`_
-- `Cell Type Annotation <./tutorial/tutorial_annotation.ipynb>`_
+- `Dimensionality Reduction <https://github.com/BioX-NKU/scMethCraft/tutorial/tutorial_cell_embedding.ipynb>`_
+- `Data Enhancement <https://github.com/BioX-NKU/scMethCraft/tutorial/tutorial_cell_embedding.ipynb>`_
+- `Batch Integration <https://github.com/BioX-NKU/scMethCraft/tutorial/tutorial_batch_integration.ipynb>`_
+- `Cell Type Annotation <https://github.com/BioX-NKU/scMethCraft/tutorial/tutorial_annotation.ipynb>`_
