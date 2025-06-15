@@ -1,9 +1,10 @@
 version: 2
-
+build:
+  os: ubuntu-22.04  # 指定构建环境的操作系统
+  tools:
+    python: "3.9"  # 指定使用的 Python 版本
 sphinx:
   configuration: docs/source/conf.py
-
 python:
-  version: 3.9
   install:
     - requirements: docs/source/requirements.txt
