@@ -8,7 +8,7 @@
 
 import os
 import sys
-sys.path.insert(0, os.path.abspath(r'D:\Users\tsm\Downloads\scMethCraft_V4'))
+sys.path.insert(0, os.path.abspath(r'../../'))
 
 project = 'scMethCraft'
 copyright = '2025, BioXNKU'
