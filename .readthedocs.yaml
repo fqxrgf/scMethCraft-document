@@ -1,10 +1,8 @@
 version: 2
 
-# 指定 Sphinx 配置文件路径
 sphinx:
   configuration: docs/source/conf.py
 
-# Python 构建设置
 python:
   version: 3.9
   install:
